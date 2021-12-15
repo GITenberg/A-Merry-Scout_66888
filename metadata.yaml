@@ -5,12 +5,17 @@ contributor:
     agent_name: Riley, Garada Clark
     gutenberg_agent_id: '54007'
     url: http://www.gutenberg.org/2009/agents/54007
+covers:
+- cover_type: archival
+  image_path: 66888-h/images/cover.jpg
 creator:
   author:
     agent_name: Brett, Edna Payson
     gutenberg_agent_id: '54006'
     url: http://www.gutenberg.org/2009/agents/54006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66888#A-Merry-Scout
 gutenberg_issued: '2021-12-06'
 identifiers:
   gutenberg: '66888'
